@@ -111,6 +111,16 @@ Sign in with Apify OAuth when asked, or send `Authorization: Bearer <APIFY_TOKEN
 
 $8 per 1,000 articles ($0.008 each) on every Apify plan (Free, Bronze, Silver, Gold, Platinum, Diamond), platform usage included, no start fee, pay only for articles returned – see [lagenuina_agency/medium-scraper](https://apify.com/lagenuina_agency/medium-scraper).
 
+## More tools from Quelli di Carne Genuina
+
+- **Ad intelligence:** [Google Ads Transparency](https://github.com/assa83/google-ads-transparency-api) · [Meta Ad Library](https://github.com/assa83/facebook-ad-library-api) · [TikTok Top Ads](https://github.com/assa83/tiktok-top-ads-api) · [LinkedIn Ad Library](https://github.com/assa83/linkedin-ad-library-api)
+- **Competitor & SEO research:** [Similarweb traffic](https://github.com/assa83/similarweb-traffic-api) · [Google Trends](https://github.com/assa83/google-trends-api-python) · [Google Play](https://github.com/assa83/google-play-scraper-api)
+- **Travel prices:** [Google Hotels](https://github.com/assa83/google-hotels-prices-api) · [Google Flights](https://github.com/assa83/google-flights-api)
+- **Retail prices:** [Woolworths & Coles](https://github.com/assa83/australian-supermarket-prices-api)
+- **Content & social data:** [YouTube Transcript](https://github.com/assa83/youtube-transcript-scraper-api) · [Likee](https://github.com/assa83/likee-scraper-api)
+
+All actors: [apify.com/lagenuina_agency](https://apify.com/lagenuina_agency) · Tutorials: [assa83.github.io](https://assa83.github.io)
+
 ## Disclaimer
 
 Independent, not affiliated with or endorsed by A Medium Corporation. It reads only publicly available data and never bypasses the paywall. Articles are copyrighted by their authors: use them in line with the applicable terms and laws.
