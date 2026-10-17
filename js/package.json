@@ -1,0 +1,10 @@
+{
+  "name": "medium-scraper-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Medium API in Python and JavaScript: scrape Medium articles by tag, author, publication or keyword, with claps, reading time and full text as Markdown for RAG. n8n workflow and MCP for AI agents.",
+  "license": "MIT",
+  "scripts": { "start": "node example.mjs" },
+  "dependencies": { "apify-client": "^2.25.0" }
+}
